@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ERICK/Desktop/New folder (3)/quizzle_public-master/quizzle_public-master/hosprescue/app/src/main/res/layout/activity_forget_password.xml" value="0.1" />
+        <entry key="..\:/Users/ERICK/Desktop/New folder (3)/quizzle_public-master/quizzle_public-master/hosprescue/app/src/main/res/layout/activity_hosp_map.xml" value="0.1" />
+        <entry key="..\:/Users/ERICK/Desktop/New folder (3)/quizzle_public-master/quizzle_public-master/hosprescue/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/ERICK/Desktop/New folder (3)/quizzle_public-master/quizzle_public-master/hosprescue/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ERICK/Desktop/New folder (3)/quizzle_public-master/quizzle_public-master/hosprescue/app/src/main/res/layout/activity_map.xml" value="0.1" />
+        <entry key="..\:/Users/ERICK/Desktop/New folder (3)/quizzle_public-master/quizzle_public-master/hosprescue/app/src/main/res/layout/activity_permissions.xml" value="0.1" />
+        <entry key="..\:/Users/ERICK/Desktop/New folder (3)/quizzle_public-master/quizzle_public-master/hosprescue/app/src/main/res/layout/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/ERICK/Desktop/New folder (3)/quizzle_public-master/quizzle_public-master/hosprescue/app/src/main/res/layout/custom_ambulance.xml" value="0.1" />
+        <entry key="..\:/Users/ERICK/Desktop/New folder (3)/quizzle_public-master/quizzle_public-master/hosprescue/app/src/main/res/layout/custom_hospital.xml" value="0.1" />
+        <entry key="..\:/Users/ERICK/Desktop/New folder (3)/quizzle_public-master/quizzle_public-master/hosprescue/app/src/main/res/layout/list_requests.xml" value="0.1" />
+        <entry key="..\:/Users/ERICK/Desktop/New folder (3)/quizzle_public-master/quizzle_public-master/hosprescue/app/src/main/res/layout/load_view.xml" value="0.1" />
+        <entry key="..\:/Users/ERICK/Desktop/New folder (3)/quizzle_public-master/quizzle_public-master/hosprescue/app/src/main/res/layout/navigate_view.xml" value="0.1" />
+        <entry key="..\:/Users/ERICK/Desktop/New folder (3)/quizzle_public-master/quizzle_public-master/hosprescue/app/src/main/res/layout/view_custom_marker.xml" value="0.1" />
+        <entry key="..\:/Users/ERICK/StudioProjects/hosprescue/app/src/main/res/layout/activity_forget_password.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/ERICK/StudioProjects/hosprescue/app/src/main/res/layout/activity_forgot_password.xml" value="0.16259057971014493" />
+        <entry key="..\:/Users/ERICK/StudioProjects/hosprescue/app/src/main/res/layout/activity_hosp_map.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/ERICK/StudioProjects/hosprescue/app/src/main/res/layout/activity_login.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/ERICK/StudioProjects/hosprescue/app/src/main/res/layout/activity_main.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/ERICK/StudioProjects/hosprescue/app/src/main/res/layout/activity_map.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/ERICK/StudioProjects/hosprescue/app/src/main/res/layout/activity_permissions.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/ERICK/StudioProjects/hosprescue/app/src/main/res/layout/activity_register.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/ERICK/StudioProjects/hosprescue/app/src/main/res/layout/custom_ambulance.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/ERICK/StudioProjects/hosprescue/app/src/main/res/layout/custom_hospital.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/ERICK/StudioProjects/hosprescue/app/src/main/res/layout/list_requests.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/ERICK/StudioProjects/hosprescue/app/src/main/res/layout/load_view.xml" value="0.18297101449275363" />
+        <entry key="..\:/Users/ERICK/StudioProjects/hosprescue/app/src/main/res/layout/navigate_view.xml" value="0.16168478260869565" />
+        <entry key="..\:/Users/ERICK/StudioProjects/hosprescue/app/src/main/res/layout/view_custom_marker.xml" value="0.18297101449275363" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.jettech.hosprescue">
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HospRescue">
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" /> <!-- The API key for Google Maps-based APIs. -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="" />
+
+
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/Theme.HospRescue.NoActionBar"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+
+            android:name=".PermissionsActivity"
+            android:theme="@style/Theme.HospRescue.NoActionBar" />
+
+        <activity
+            android:name=".MapActivity"
+            android:theme="@style/Theme.HospRescue.NoActionBar" />
+
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.HospRescue.NoActionBar" />
+
+        <activity
+            android:name=".HospMapActivity"
+            android:theme="@style/Theme.HospRescue.NoActionBar" />
+
+        <activity
+            android:name=".RegisterActivity"
+            android:theme="@style/Theme.HospRescue.NoActionBar" />
+
+        <activity
+            android:name=".ForgetPasswordActivity"
+            android:theme="@style/Theme.HospRescue.NoActionBar"
+            android:exported="false" />
+
+
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

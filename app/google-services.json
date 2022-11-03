@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "655055757853",
+    "project_id": "hospital-response-system",
+    "storage_bucket": "hospital-response-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655055757853:android:15ee5dce8059e1b1b05cf4",
+        "android_client_info": {
+          "package_name": "com.jettech.hosprescue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655055757853-qrmr6frf744s9jo2iuppa06ss2drt1pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jettech.hosprescue",
+            "certificate_hash": "7ad695153453aecac8ff870a337f7c231161326a"
+          }
+        },
+        {
+          "client_id": "655055757853-ikuf0e36ssabtfergv8chdfiprcsvbur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADVnS7h2YIJUWIl6VQ2Zs-5qAWpoms-zU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655055757853-ikuf0e36ssabtfergv8chdfiprcsvbur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

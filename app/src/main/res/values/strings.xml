@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hosp rescue</string>
+    <string name="closed">closed</string>
+    <string name="open">open</string>
+</resources>

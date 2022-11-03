@@ -1,0 +1,2 @@
+rootProject.name = "hosp rescue"
+include ':app'
